@@ -39,7 +39,7 @@ end
 ```
 
 
-![Example Image](./Interpolation.png)
+![Example Image](./interpolation.png)
 
 
 
